@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/onlinebookstore/static/css/main.77a00d40.chunk.css",
-    "main.js": "/onlinebookstore/static/js/main.b73b0034.chunk.js",
-    "main.js.map": "/onlinebookstore/static/js/main.b73b0034.chunk.js.map",
-    "runtime-main.js": "/onlinebookstore/static/js/runtime-main.88160e7b.js",
-    "runtime-main.js.map": "/onlinebookstore/static/js/runtime-main.88160e7b.js.map",
-    "static/js/2.57c7edad.chunk.js": "/onlinebookstore/static/js/2.57c7edad.chunk.js",
-    "static/js/2.57c7edad.chunk.js.map": "/onlinebookstore/static/js/2.57c7edad.chunk.js.map",
-    "static/js/3.9eb53bd2.chunk.js": "/onlinebookstore/static/js/3.9eb53bd2.chunk.js",
-    "static/js/3.9eb53bd2.chunk.js.map": "/onlinebookstore/static/js/3.9eb53bd2.chunk.js.map",
-    "index.html": "/onlinebookstore/index.html",
-    "precache-manifest.51f55878f5ff1f24dc678098b1e5b622.js": "/onlinebookstore/precache-manifest.51f55878f5ff1f24dc678098b1e5b622.js",
-    "service-worker.js": "/onlinebookstore/service-worker.js",
-    "static/css/main.77a00d40.chunk.css.map": "/onlinebookstore/static/css/main.77a00d40.chunk.css.map",
-    "static/js/2.57c7edad.chunk.js.LICENSE.txt": "/onlinebookstore/static/js/2.57c7edad.chunk.js.LICENSE.txt"
+    "main.css": "/online-bookstore/static/css/main.77a00d40.chunk.css",
+    "main.js": "/online-bookstore/static/js/main.b73b0034.chunk.js",
+    "main.js.map": "/online-bookstore/static/js/main.b73b0034.chunk.js.map",
+    "runtime-main.js": "/online-bookstore/static/js/runtime-main.bdf4500e.js",
+    "runtime-main.js.map": "/online-bookstore/static/js/runtime-main.bdf4500e.js.map",
+    "static/js/2.57c7edad.chunk.js": "/online-bookstore/static/js/2.57c7edad.chunk.js",
+    "static/js/2.57c7edad.chunk.js.map": "/online-bookstore/static/js/2.57c7edad.chunk.js.map",
+    "static/js/3.9eb53bd2.chunk.js": "/online-bookstore/static/js/3.9eb53bd2.chunk.js",
+    "static/js/3.9eb53bd2.chunk.js.map": "/online-bookstore/static/js/3.9eb53bd2.chunk.js.map",
+    "index.html": "/online-bookstore/index.html",
+    "precache-manifest.7f0d5ae6cf3852529ccabfe501057711.js": "/online-bookstore/precache-manifest.7f0d5ae6cf3852529ccabfe501057711.js",
+    "service-worker.js": "/online-bookstore/service-worker.js",
+    "static/css/main.77a00d40.chunk.css.map": "/online-bookstore/static/css/main.77a00d40.chunk.css.map",
+    "static/js/2.57c7edad.chunk.js.LICENSE.txt": "/online-bookstore/static/js/2.57c7edad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.88160e7b.js",
+    "static/js/runtime-main.bdf4500e.js",
     "static/js/2.57c7edad.chunk.js",
     "static/css/main.77a00d40.chunk.css",
     "static/js/main.b73b0034.chunk.js"
